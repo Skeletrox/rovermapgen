@@ -1,6 +1,6 @@
 # Rover Map Generator
 
-Randomly generates maps for Assignment 1, CSCI 561. **This doesn't solve the problem, it just creates one (or multiple)**.
+Randomly generates maps for Assignment 1, CSCI 561 and solves them.
 
 ## How does it work?
 
@@ -21,11 +21,6 @@ This will automate the entire stack, including execution and require some work f
 * Run `tcgen.py` and follow the instructions.
 * Grab a coffee or go for a walk.
 
-## Is this enabling plagiarism?
+## Can I use this for my assignment
 
-* This code does NOTHING that is a part of the assignment. This is simply a wrapper that allows you to visualize your inputs and outputs.
-* No test cases are shared/stored in a common location! Please don't show off your amazing solve to anybody.
-
-## But how does it run the agorithm?
-
-* It doesn't. It acts like a SBI employee and only defers execution to whatever monstrosity you might have built. The code is yours, the execution is yours, and this only acts as a display mechanism.
+Absolutely not.
